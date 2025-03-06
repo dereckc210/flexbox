@@ -8,7 +8,7 @@
   flex-direction: row;
   justify-content: space-evenly;
   align-items: baseline;
-  background-color: DodgerBlue;
+  background-color: #ff4d4d;
 }
 
 .sister {
@@ -22,5 +22,5 @@
   flex-direction: row;
   justify-content: space-evenly;
   align-items: baseline;
-  background-color: DodgerBlue;
+  background-color: #ff4d4d;
 }
