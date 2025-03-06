@@ -1,4 +1,9 @@
 .brother {
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -13,4 +18,9 @@
   text-align: center;
   line-height: 75px;
   font-size: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: baseline;
+  background-color: DodgerBlue;
 }
