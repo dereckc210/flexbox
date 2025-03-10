@@ -60,3 +60,8 @@ body {
   /*flex-direction: row;*/
   justify-content: space-evenly;
 }
+.sister {
+  display: flex;
+  /*flex-direction: row;*/
+  justify-content: space-evenly;
+}
