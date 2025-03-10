@@ -54,3 +54,8 @@ body {
   border: 10px solid var(--clr-dark);
 }
 /* END OF BASE STYLES */
+
+.brother {
+  display: flex;
+  
+}
